@@ -33,29 +33,7 @@ I am completely passionate about frontend/backend development, MERN-stack  <img 
 
 
 
-<table>
-<tr>
-  <td valign="center">
-   
-    
-<div align="center">
- <h2>Time for Stats📈</h2>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=louayyahyaoui&show_icons=true&theme=highcontrast&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&layout=compact&hide_border=true" alt="louayyahyaoui" /> 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=louayyahyaoui&show_icons=true&theme=highcontrast&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" alt="louayyahyaouie" />
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=louayyahyaoui&theme=highcontrast&hide_border=true" alt="#your-username" />
- </div>
-    </td>
-<td valign="center" >
-
-   <div align="center">
-      <h3 >My daily.dev card 🎴 </h3>
- <a href="https://app.daily.dev/louayyahyaoui"><img src="https://api.daily.dev/devcards/0f183945367941e8ae29b2f4afb94781.png?r=zpp" width="400" alt="Louay Yahyaoui's Dev Card"/></a>
- </div>
-  </td>
-
-</tr>
-</table>
 
 
 
