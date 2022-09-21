@@ -26,10 +26,6 @@ I am completely passionate about frontend/backend development, MERN-stack  <img 
 
 - 💬 Ask me about programming in general, I am always <br> available to help and learn together.
 - ✨ I love to create different types of **contents**.
-- ⚙️ Using the following tools : [![Jira](https://img.shields.io/badge/-Jira-blue?style=flat&logo=Jira&logoColor=white)](https://www.linkedin.com/in/louay-yahyaoui-esprit/)
-[![VsCode](https://img.shields.io/badge/-VsCode-grey?style=flat&logo=VisualStudioCode&logoColor=white)](https://www.linkedin.com/in/louay-yahyaoui-esprit/)
-[![Gitlab](https://img.shields.io/badge/-Gitlab-orange?style=flat&logo=Gitlab&logoColor=white)](https://www.linkedin.com/in/louay-yahyaoui-esprit/)
-[![Git](https://img.shields.io/badge/-Git-red?style=flat&logo=Git&logoColor=white)](https://www.linkedin.com/in/louay-yahyaoui-esprit/)
 
 
 
