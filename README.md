@@ -3,13 +3,11 @@
  </div>
 
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/louay-yahyaoui-esprit/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:louay.yahyaoui@esprit.tn)
-[![Gitlab](https://img.shields.io/badge/-Gitlab-orange?style=flat&logo=Gitlab&logoColor=white)](https://gitlab.com/louayyahyaoui)
-[![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/louayyahyaoui)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/siwarhassen/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:siouar.hassen@gmail.com)
 
 
-<img title="My Avatar" align="left" heigth="300" width="360" src="https://user-images.githubusercontent.com/49155930/134610914-b4951cc5-7d84-46ac-892f-7e802952a3ed.png"
+<img title="My Avatar" align="left" heigth="300" width="360" src="https://icons8.com/illustrations/illustration/casual-life-3d-girl-with-laptop-making-notes"
 />
 
 
